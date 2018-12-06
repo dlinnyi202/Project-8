@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "ptsans-regular";
+		src: url("../fonts/ptsans-regular.ttf");
+}
+@font-face {
+	font-family: "PTSans-NarrowBold";
+		src: url("../fonts/PTSans-NarrowBold.ttf");
+}
+@font-face {
+	font-family: "ptsans-bold";
+		src: url("../fonts/ptsans-bold.ttf");
+}
+@font-face {
+	font-family: "Ubuntu-Bold";
+		src: url("../fonts/Ubuntu-Bold.ttf");
+}
+@font-face {
+	font-family: "Ubuntu-Regular";
+		src: url("../fonts/Ubuntu-Regular.ttf");
+}
+@font-face {
+	font-family: "BebasNeueBold";
+		src: url("../fonts/BebasNeueBold.ttf");
+}
+@font-face {
+	font-family: "PTSans-Narrow";
+		src: url("../fonts/PTSans-Narrow.ttf");
+}
